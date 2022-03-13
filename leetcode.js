@@ -89,7 +89,9 @@ function postWechat(json) {
             return this.replace(new RegExp(match, 'g'), () => replace);
         }
     }
-
+    
+    var title = "<p><strong>题目:"+title+" 题号:"+id+"难度:"+level +"</strong></p>"
+    content = title + content
 
     var turndownService = new TurndownService()
     var markdown = turndownService.turndown(content)
