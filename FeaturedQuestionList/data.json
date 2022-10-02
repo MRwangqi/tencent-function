@@ -1,7 +1,12 @@
 [
     {
         "name": "LeetCode 热题 HOT 100",
-        "icon": "",
+        "icon": "https://mrwangqi.github.io/tencent-function/FeaturedQuestionList/2cktkvj.webp",
         "id": "2cktkvj"
+    },
+    {
+        "name": "LeetCode 精选数据库 70 题",
+        "icon": "https://mrwangqi.github.io/tencent-function/FeaturedQuestionList/qgq7m9e.webp",
+        "id": "qgq7m9e"
     }
 ]
